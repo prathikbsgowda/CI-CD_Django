@@ -2,6 +2,8 @@
 
 This is a sample Django project demonstrating **CI/CD using Docker and GitHub Actions**.
 
+
+
 ---
 
 ##  Features
